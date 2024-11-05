@@ -7,3 +7,4 @@ Start classifying ai detections Android Studio (Kotlin)
 4) retrieve model predictions through nodes
 5) collect predictions
 
+### Code will not work without converting image to bytebuffer ###
